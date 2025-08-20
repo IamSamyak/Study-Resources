@@ -10,3 +10,6 @@ This repository contains useful resources, notes, and references for learning an
 
 - [Design Pattern](https://www.youtube.com/watch?v=vap9ACtc_tU)
 ---
+## 📂 Java Tutorial
+
+- [Thread & Multithreading](https://www.youtube.com/watch?v=4aYvLz4E1Ts)
